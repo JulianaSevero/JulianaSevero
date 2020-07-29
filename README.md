@@ -18,4 +18,4 @@ Quem me conhece sabe que em primeiro lugar vem o R, porém tenho me interessado 
 - Atualmente, trabalho com:
     - Análise de dados utilizando R e alguns pipelines 
     - Desenvolvimento Mobile utilizando Flutter
-- Meus repositórios de projetos são privados, mas estou a disposição para conversarmos sobre essas linguagens! 
+- Meus repositórios de projetos são privados, mas estou a disposição para conversarmos sobre essas linguagens, frameworks e arquiteturas utilizadas!
