@@ -26,6 +26,7 @@ Quem me conhece sabe que em primeiro lugar vem a linguagem de programação R (T
 | Flutter            | Iniciante            |
 | Firebase           | Iniciante            |
 | MongoDB            | Iniciante            |
+| React              | Iniciante            |
 
 # Idiomas 🌎
 
