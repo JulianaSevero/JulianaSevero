@@ -33,7 +33,7 @@ Quem me conhece sabe que em primeiro lugar vem a linguagem de programação R (T
 | Idioma             | Nível de Aprendizado Atual|
 |--------------------|---------------------------|
 | Português          | Nativo                    |
-| Inglês             | B2                        |
+| Inglês             | C1                        |
 | Espanhol           | B1                        |
 | Alemão             | A1                        |
 | Francês            | A1                        |
